@@ -1,11 +1,11 @@
 {
-    "name": "jagoan",
-    "short_name": "jagoan",
+    "name": "medical-statistic-app",
+    "short_name": "medical-statistic-app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "basic form app with integrated heatmap",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
